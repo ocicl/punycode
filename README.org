@@ -1,0 +1,9 @@
+* punycode
+
+A punycode implementation in Common Lisp
+
+|---------+----------------------------------------------|
+| source  | git:https://github.com/Shinmera/punycode.git |
+| commit  | c79374a                                      |
+| systems | punycode                                     |
+|---------+----------------------------------------------|

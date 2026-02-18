@@ -4,6 +4,6 @@ A punycode implementation in Common Lisp
 
 |---------+----------------------------------------------|
 | source  | git:https://codeberg.org/shinmera/punycode.git |
-| commit  | ac958bb                                      |
+| commit  | 0000000                                      |
 | systems | punycode                                     |
 |---------+----------------------------------------------|
